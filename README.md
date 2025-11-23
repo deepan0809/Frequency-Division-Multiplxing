@@ -83,6 +83,9 @@ for i=1:num subplot(num,1,i); plot(t,demod(i,:)); end
 
 # MANUAL CALCULATION
 
+![1](https://github.com/user-attachments/assets/54a0f188-85c9-4aa9-8a93-750740e80b23)
+![2](https://github.com/user-attachments/assets/a38e424f-a6a2-44ea-ac65-4a4942cd4f4d)
+
 # RESULT 
 
 All message frequencies (415–465 Hz) were successfully multiplexed and individually recovered with minimal distortion using bandpass isolation and coherent demodulation.
